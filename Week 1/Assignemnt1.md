@@ -20,3 +20,5 @@ _What is AutoML? How is it related to MLOps? Just as we saw a list of various ML
 __Answer :__
 
 ## __Part 2__
+**Screenshot of AWS Console**
+![Amazon Web Services Console](AWSConsole.jpg)
