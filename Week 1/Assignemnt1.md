@@ -21,7 +21,7 @@ __Answer :__
 
 A machine learning model is interpretable if we can fundamentally understand how it arrived at a specific decision. The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model.
 
-In case of a Linear Regression Model, 
+In case of a Linear Regression Model, we can infer various aspects of the model by looking at the linear weights, intercepts and slopes (signs). Changing the values of the features result in change in the outcome which is determined by the multipliers(weights). This in turn points towards feature relevance in the outcome of the model.
 
 
 
@@ -30,3 +30,8 @@ In case of a Linear Regression Model,
 **Screenshot of AWS Console**
 
 ![Amazon Web Services Console](AWSConsole.jpg)
+
+## References 
+1. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+2. [AIOps - Medium](https://daffodilsw.medium.com/understanding-aiops-and-its-benefits-for-it-operations-b622e8a71124)
+
