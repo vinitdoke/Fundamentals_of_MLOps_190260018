@@ -23,3 +23,13 @@ git commit -m "Configured Storage"
 dvc push
 ```
 ## **Part 2**:
+Accuracy and F1 Score of the 2 experiments :
+| Experiment|Accuracy|Weighter F1 Score |
+| ----------- | ----------- |----------|
+| *expt1_dt* : **Decision Tree**| 1.0|1.0|
+| *expt2_rf* : **Random Forest**|0.9796696315120712|0.979667661973157 |
+
+
+Screenshot of **AWS S3 Bucket** after **Part 2**
+
+![Amazon Web Services Console](aws.jpg)
