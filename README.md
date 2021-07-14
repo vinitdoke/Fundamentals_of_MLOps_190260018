@@ -2,3 +2,4 @@
 This repository will house assignments pertaining to the Learner's Space Course : Fundamentals Of MLOps organized by Web and Coding Club (WnCC) IITB
 ## Content :
 1. [Assignment 1](https://github.com/vinitdoke/Fundamentals_of_MLOps_190260018/blob/main/Week%201/Assignemnt1.md)
+2. [Assignment 2](https://github.com/vinitdoke/Fundamentals_of_MLOps_190260018/blob/main/Week%202/Assignment2.md)
